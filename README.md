@@ -1,7 +1,6 @@
 ### Hi there, I'm James 👋
 
 ## Tech Stack
-
 ![image]({https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white})
 <!--
 **jabt1998/jabt1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
